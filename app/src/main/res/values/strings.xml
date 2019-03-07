@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Realm Demo</string>
+    <string name="contacts_list_header_text">Contacts</string>
+    <string name="create_contact_header_text">Create Contact</string>
+    <string name="edit_contact_header_text">Edit Contact</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="ok_text">OK</string>
+    <string name="delete_confirm_string">Are you sure you want delete \'%1$s\'?</string>
+    <string name="modified_confirm_string">Changes have not been saved. Proceed anyway?</string>
+    <string name="name_hint_text">Name</string>
+    <string name="phone_hint_text">Phone</string>
+    <string name="email_hint_text">Email</string>
+    <string name="save_text">Save</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="invalid_name_text">Name is required (E.g., john smith)</string>
+    <string name="invalid_phone_text">Phone is not valid (E.g., 123 123 1234)</string>
+    <string name="invalid_email_text">Email is not valid (E.g., jsmith@somecompany.com</string>
+    <string name="storage_error_text">Could not add or update contact.</string>
+    <string name="add_contact_text">Added contact</string>
+    <string name="update_contact_text">Updated contact</string>
+    <string name="add_a_contact_text">Add a Contact</string>
+</resources>
